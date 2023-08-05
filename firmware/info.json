@@ -1,0 +1,20 @@
+{
+    "keyboard_name":"project_x",
+    "manufacturer":"jw",
+    "maintainer":"jw",
+    "url":"",
+    "usb": {
+        "vid": "0x0001",
+        "pid": "0x0001",
+        "device_version": "0.0.1"
+    },
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "nkro": false
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040"
+}
