@@ -13,8 +13,8 @@
         }
     },
     "matrix_pins": {
-        "cols": ["GP29", "GP6", "GP7", "GP29", "GP6", "GP7" ],
-        "rows": ["GP26", "GP27", "GP28" ]
+        "cols": ["GP26", "GP27", "GP28", "GP26", "GP27", "GP28"],
+        "rows": ["GP29", "GP6",  "GP7" ]
     },
     "layouts":{
         "LAYOUT_split_3x5_3": {
@@ -59,9 +59,9 @@
                 { "matrix": [1, 5], "x": 4,  "y": 3 },
                 { "matrix": [2, 5], "x": 5,  "y": 3 },
 
-                { "matrix": [5, 5], "x": 6,  "y": 3 },
+                { "matrix": [3, 5], "x": 6,  "y": 3 },
                 { "matrix": [4, 5], "x": 7,  "y": 3 },
-                { "matrix": [3, 5], "x": 8,  "y": 3 }
+                { "matrix": [5, 5], "x": 8,  "y": 3 }
 
             ]
         }
