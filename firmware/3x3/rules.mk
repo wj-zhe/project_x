@@ -1,2 +1,0 @@
-SERIAL_DRIVER = vendor
-
