@@ -14,7 +14,7 @@
         "bootmagic": true,
         "command": false,
         "console": false,
-        "rgblight": true,
+        "rgblight": false,
         "nkro": false
     },
     "indicators": {

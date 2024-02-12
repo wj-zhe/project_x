@@ -15,7 +15,7 @@ typedef struct {
 
 /* Tap-Dance declarations */
 enum {
-    /* QUOT_LAYR, // Our custom tap dance key; add any other tap dance keys to this enum */ 
+    /* QUOT_LAYR, // Our custom tap dance key; add any other tap dance keys to this enum */
     TD_L1,
     TD_MD_NX_PR,
     TD_MD_ULT,

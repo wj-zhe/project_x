@@ -1,0 +1,736 @@
+174483953657852
+jw_custom_footprint
+BatteryHolder_Keystone_3034_1x20mm_mod
+Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
+Keystone type 3034 coin cell retainer
+0
+3
+2
+jw_custom_footprint
+BatteryHolder_Keystone_3034_1x20mm_mod_dual_side
+Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
+Keystone type 3034 coin cell retainer
+0
+3
+2
+jw_custom_footprint
+Breakaway_Tabs_1x01_0.3mm
+
+
+0
+0
+0
+jw_custom_footprint
+Breakaway_Tabs_1x02_0.3mm
+
+
+0
+0
+0
+jw_custom_footprint
+Breakaway_Tabs_1x03_0.3mm
+
+
+0
+0
+0
+jw_custom_footprint
+Breakaway_Tabs_1x05_0.3mm
+
+
+0
+0
+0
+jw_custom_footprint
+CherryMX_Choc_Hotswap_overlapped
+
+
+0
+8
+2
+jw_custom_footprint
+CherryMX_Choc_Hotswap_w_keycap_frames
+
+
+0
+8
+2
+jw_custom_footprint
+CherryMX_Hotswap
+
+
+0
+4
+2
+jw_custom_footprint
+CherryMX_Hotswap_1.5u
+
+
+0
+4
+2
+jw_custom_footprint
+CherryMX_Hotswap_EC11_cutout_bottom
+
+
+0
+0
+0
+jw_custom_footprint
+CherryMX_Hotswap_cutout_above_PCB
+
+
+0
+0
+0
+jw_custom_footprint
+CherryMX_Hotswap_cutout_bottom
+
+
+0
+0
+0
+jw_custom_footprint
+CherryMX_Hotswap_cutout_switch_plate
+
+
+0
+0
+0
+jw_custom_footprint
+CherryMX_Hotswap_w_pad_extension
+
+
+0
+4
+2
+jw_custom_footprint
+Diode_SOD123_THT
+SOD-123
+SOD-123
+0
+2
+2
+jw_custom_footprint
+Diode_SOD123_THT_2
+SOD-123
+SOD-123
+0
+2
+2
+jw_custom_footprint
+Diode_SOD123_THT_2_cutout
+SOD-123
+SOD-123
+0
+0
+0
+jw_custom_footprint
+Diode_SOD123_THT_2_cutout_small
+SOD-123
+SOD-123
+0
+0
+0
+jw_custom_footprint
+Diode_SOD123_wo_THT
+SOD-123
+SOD-123
+0
+4
+2
+jw_custom_footprint
+FPC_front_flip_connector_1x05-P0.5mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0050, 5 Circuits (https://www.molex.com/pdm_docs/sd/2005280050_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+7
+6
+jw_custom_footprint
+FPC_front_flip_connector_1x05-P0.5mm_Horizontal_cutout
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0050, 5 Circuits (https://www.molex.com/pdm_docs/sd/2005280050_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+0
+0
+jw_custom_footprint
+Hirose_DF13-06P-1.25DS_1x06_P1.25mm_Horizontal_cutout
+Hirose DF13 through hole, DF13-06P-1.25DS, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+0
+0
+jw_custom_footprint
+Jumper_w_Hole
+
+
+0
+3
+2
+jw_custom_footprint
+Kailh_Choc_PG1350_Hotswap_reversible
+
+
+0
+4
+2
+jw_custom_footprint
+Kailh_socket_PG1350_v1_reversible
+Kailh "Choc" PG1350 v1 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+jw_custom_footprint
+Kailh_socket_PG1350_v1_reversible_cutout_bottom
+Kailh "Choc" PG1350 v1 keyswitch reversible socket mount
+kailh,choc
+0
+0
+0
+jw_custom_footprint
+Kailh_socket_PG1350_v1_reversible_cutout_switch_plate
+Kailh "Choc" PG1350 v1 keyswitch reversible socket mount
+kailh,choc
+0
+0
+0
+jw_custom_footprint
+Kailh_socket_PG1350_v1_reversible_cutout_under_switch_plate
+Kailh "Choc" PG1350 v1 keyswitch reversible socket mount
+kailh,choc
+0
+0
+0
+jw_custom_footprint
+Kailh_socket_PG1350_v1_reversible_extended_pad
+Kailh "Choc" PG1350 v1 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+jw_custom_footprint
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm_double_side
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+8
+4
+jw_custom_footprint
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm_double_side_cutout
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+0
+0
+jw_custom_footprint
+MJ-4PP-9
+
+
+0
+8
+4
+jw_custom_footprint
+MJ-4PP-9_cutout_beneath_PCB
+
+
+0
+0
+0
+jw_custom_footprint
+MOLEX_1x02_1.25mm_51146
+JST GH series connector, BM02B-GHS-TBT (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator
+connector JST GH side entry
+0
+4
+3
+jw_custom_footprint
+Molex_200528-0050_1x05-1MP_P0.5mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0050, 5 Circuits (https://www.molex.com/pdm_docs/sd/2005280050_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+7
+6
+jw_custom_footprint
+Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical_cutout
+Molex PicoBlade Connector System, 53047-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+2
+2
+jw_custom_footprint
+Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical_cutout_above_PCB
+Molex PicoBlade Connector System, 53047-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+0
+0
+jw_custom_footprint
+Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical_cutout_bottom
+Molex PicoBlade Connector System, 53047-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+0
+0
+jw_custom_footprint
+Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical_round_pad
+Molex PicoBlade Connector System, 53047-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+2
+2
+jw_custom_footprint
+MountingHole_2.2mm_M2_cutout
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+jw_custom_footprint
+MountingHole_2.7mm_M2.5_cutout
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+jw_custom_footprint
+MountingHole_3.2mm_M3_cutout
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+jw_custom_footprint
+MountingHole_3.5mm_M3.5_cutout
+Mounting Hole 3.5mm, no annular, M3.5
+mounting hole 3.5mm no annular m3.5
+0
+0
+0
+jw_custom_footprint
+MountingHole_4.3mm_M4_cutout
+Mounting Hole 4.3mm, no annular, M4
+mounting hole 4.3mm no annular m4
+0
+0
+0
+jw_custom_footprint
+MountingHole_5.3mm_M5_cutout
+Mounting Hole 5.3mm, no annular, M5
+mounting hole 5.3mm no annular m5
+0
+0
+0
+jw_custom_footprint
+MountingHole_6.3mm_M6_cutout
+Mounting Hole 5.3mm, no annular, M5
+mounting hole 5.3mm no annular m5
+0
+0
+0
+jw_custom_footprint
+Mounting_Hole_6.5x2.54mm
+
+
+0
+0
+0
+jw_custom_footprint
+Mounting_Hole_6.5x2.54mm_cutout
+
+
+0
+0
+0
+jw_custom_footprint
+Mounting_Hole_7x2mm
+
+
+0
+0
+0
+jw_custom_footprint
+Nintendo_Switch_JOYSTICK
+
+
+0
+0
+0
+jw_custom_footprint
+Nintendo_Switch_JOYSTICK_cutout_no_cable
+
+
+0
+0
+0
+jw_custom_footprint
+Nintendo_Switch_Joystick_Cable_Hole_5.5x2mm
+
+
+0
+0
+0
+jw_custom_footprint
+Nintendo_Switch_Joystick_Cable_Hole_5.5x2mm_cutout
+
+
+0
+0
+0
+jw_custom_footprint
+Nintendo_Switch_Joystick_Cable_Hole_6x2mm_cutout
+
+
+0
+0
+0
+jw_custom_footprint
+OLED_4Pin_cutout
+Connecteur 6 pins
+CONN DEV
+0
+0
+0
+jw_custom_footprint
+PMW3360DM_DIP-16_W10.16mm
+16-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+16
+16
+jw_custom_footprint
+PinSocket_1x02_P2.54mm_Vertical_cutout
+Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x02 2.54mm single row
+0
+0
+0
+jw_custom_footprint
+ProMicro_jumper_by_
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+242
+24
+jw_custom_footprint
+ProMicro_jumper_pad_only
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+170
+24
+jw_custom_footprint
+ProMicro_jumper_pad_only_cutout_beneath_PCB
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+0
+0
+jw_custom_footprint
+ProMicro_jumper_pad_only_zigzag
+Solder-jumper reversible Pro Micro footprint
+promicro ProMicro reversible solder jumper
+0
+168
+24
+jw_custom_footprint
+R_1206_DoubleSided
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+jw_custom_footprint
+R_1206_DoubleSided_cutout
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+0
+0
+jw_custom_footprint
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+jw_custom_footprint
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_cutout_above_PCB
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+jw_custom_footprint
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_cutout_bottom
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+jw_custom_footprint
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_cutout_switch_plate
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+jw_custom_footprint
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_no_copper_MP
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+jw_custom_footprint
+SK6812MINI_and_cherry
+
+
+0
+12
+6
+jw_custom_footprint
+SPDT_C128955
+
+
+0
+7
+4
+jw_custom_footprint
+SW_SPDT_PCM12_cutout
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+0
+0
+jw_custom_footprint
+SW_SPST_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+jw_custom_footprint
+Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM
+
+
+0
+20
+20
+jw_custom_footprint
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm_dual_side
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+jw_custom_footprint
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm_dual_side_cutout
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+0
+0
+jw_custom_footprint
+SolderJumper-2_P1.3mm_Open_TrianglePad_Double_side_1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+jw_custom_footprint
+SolderJumper-3_P1.3mm_Open_RoundedPad_Double_side_1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+jw_custom_footprint
+TE_0-1734839-5_1x05-1MP_P0.5mm_Horizontal_cutout
+TE FPC connector, 05 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+0
+0
+jw_custom_footprint
+TRRS-PJ-DPB2
+
+
+0
+8
+4
+jw_custom_footprint
+TRRS-PJ-DPB2_mod
+
+
+0
+8
+4
+jw_custom_footprint
+TRRS-PJ-DPB2_mod_cutout
+
+
+0
+0
+0
+jw_custom_footprint
+XDCR_COM-09032
+
+
+0
+14
+14
+jw_custom_footprint
+XDCR_COM-09032_dual_side
+
+
+0
+17
+14
+jw_custom_footprint
+Xiao THT jumper pad
+
+
+0
+98
+14
+jw_custom_footprint
+Xiao THT jumper pad_bak
+
+
+0
+42
+14
+jw_custom_footprint
+Xiao THT jumper pad_bck
+
+
+0
+42
+14
+jw_custom_footprint
+Xiao THT jumper pad_big_hole_flipped
+
+
+0
+98
+14
+jw_custom_footprint
+Xiao THT jumper pad_cutout
+
+
+0
+0
+0
+jw_custom_footprint
+Xiao THT jumper pad_flipped
+
+
+0
+98
+14
+jw_custom_footprint
+contact_button_cutout_10mm
+
+
+0
+0
+0
+jw_custom_footprint
+contact_button_cutout_12mm
+
+
+0
+0
+0
+jw_custom_footprint
+contact_button_pad_death_star_3.5mm_dual_side
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_death_star_5mm_dual_side
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_eclips_5mm_dual_side
+
+
+0
+10
+2
+jw_custom_footprint
+contact_button_pad_eight_5mm_dual_side
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_geometriy_1_3.5mm
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_globe_5mm_dual_side
+
+
+0
+4
+2
+jw_custom_footprint
+contact_button_pad_half_circle_5mm
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_letter_S_3.5mm
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_med_capsule_3mm
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_planet_5mm_dual_side
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_quaters_5mm_dual_side
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_sixty_nine_5mm
+
+
+0
+2
+2
+jw_custom_footprint
+contact_button_pad_temp_3mm
+
+
+0
+0
+0

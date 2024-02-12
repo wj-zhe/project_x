@@ -26,8 +26,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* RGB light */
 #ifdef RGBLIGHT_ENABLE
 #   define RGBLIGHT_SLEEP
-#   define RGBLIGHT_SPLIT
-#   define PICA40_RGBLIGHT_TIMEOUT 2 // turn RGB off after N minutes
+/* #   define RGBLIGHT_SPLIT */
+/* #   define PICA40_RGBLIGHT_TIMEOUT 2 */
 #   define RGBLIGHT_LIMIT_VAL 100
 #endif
 
@@ -40,8 +40,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #   define SPI_MOSI_PIN GP3
 #   define SPI_MISO_PIN GP4
 #   define PMW33XX_CS_PIN GP1
-#   define POINTING_DEVICE_ROTATION_90	
-#   define POINTING_DEVICE_INVERT_X	
+#   define POINTING_DEVICE_ROTATION_90
+#   define POINTING_DEVICE_INVERT_X
 
 #endif
 

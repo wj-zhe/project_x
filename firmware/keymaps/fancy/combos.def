@@ -4,7 +4,7 @@
 /* COMBO_REF_LAYER(_NAV, _NAV) // explicit reference to self instead of the default. */
 
 /* //   name     result    chord keys */
-/* COMB(AB_ESC,   KC_ESC,   KC_A, KC_B) */
+/* COMB(AB_ESC,   KC_ESC,   LCTL_T(KC_A), KC_B) */
 /* COMB(JK_TAB,   KC_TAB,   KC_J, KC_K) */
 /* COMB(JKL_SPC,  KC_SPC,   KC_J, KC_K, KC_L) */
 /* COMB(BSSL_CLR, KC_NO,    KC_BSPC, KC_LSFT) // using KC_NO as the resulting keycode is the same as COMBO_ACTION before. */
@@ -18,13 +18,13 @@ COMB(QB_combo, KC_EQL, LGUI_T(KC_Q), KC_W)
 COMB(io_combo, KC_QUOT, KC_I, KC_O)
 COMB(op_combo, KC_MINS, KC_O, LGUI_T(KC_P))
 COMB(wd_combo, KC_PLUS, KC_W, KC_D)
-COMB(ef_combo, KC_LBRC, KC_E, LCTL_T(KC_F))
+COMB(ef_combo, KC_LBRC, KC_E, KC_F)
 COMB(rg_combo, KC_LCBR, KC_R, KC_G)
 COMB(uh_combo, KC_RCBR, KC_U, KC_H)
-COMB(ij_combo, KC_RBRC, KC_I, LCTL_T(KC_J))
+COMB(ij_combo, KC_RBRC, KC_I, KC_J)
 COMB(ok_combo, KC_UNDS, KC_O, KC_K)
 COMB(sd_combo, KC_CAPS, KC_S, KC_D)
-COMB(lsln_combo, KC_DQUO, KC_L, KC_SCLN)
+COMB(lsln_combo, KC_DQUO, KC_L, LCTL_T(KC_SCLN))
 COMB(zx_combo, KC_TILD, LSFT_T(KC_Z), KC_X)
 COMB(xc_combo, KC_GRV, KC_X, KC_C)
 COMB(cmdt_combo, KC_BSLS, KC_COMM, KC_DOT)
@@ -36,8 +36,8 @@ COMB(td_md_ult_combo, TD(TD_MD_ULT), LALT_T(KC_SPC), TD(TD_L1))
 COMB(qk_boot_combo, QK_BOOT, KC_END, KC_PPLS)
 
 /* Layer 0 + 2 */
-COMB(jkl_combo, TG(2), LCTL_T(KC_J), KC_K, KC_L)
-COMB(down_up_right_combo, TG(2), LCTL_T(KC_DOWN), KC_UP, KC_RIGHT)
+COMB(jkl_combo, TG(2), KC_J, KC_K, KC_L)
+COMB(down_up_right_combo, TG(2), KC_DOWN, KC_UP, KC_RIGHT)
 
 /* Layer 0 + 3 */
 COMB(mcmdt_combo, TG(3), KC_M, KC_COMM, KC_DOT)
